@@ -1,11 +1,11 @@
 ### Nice to meet you! 👋
 
-I am a Frontend/JavaScript Engineer based in the UK with over 3 years of professional experience in building complex fintech web applications. I specialize in Vue.js, React, TypeScript, JavaScript,RESTful APIs,GraphQL,PostgreSQL,Firebase, along with strong skills in HTML and CSS.
+I am a Fullstack Engineer based in the UK with over 3 years of professional experience in building complex fintech web applications. I specialize in JavaScript, TypeScript, Vue.js, nodejs, React, RESTful APIs, GraphQL, PostgreSQL, Firebase, HTML and CSS.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 👷‍♀️ Currently a Frontend Engineer at [Torusmara](https://www.torusmara.com/)
+- 👷‍♀️ Currently a Software Engineer at [Torusmara](https://www.torusmara.com/)
 - 🌱 I’m currently learning  Reactjs, TypeScript.
 - 😊 I’m looking for opportunities to help contribute to open source projects.
 - 💼 Job interests:  Frontend Engineer, Fullstack Engineer (mid-level/senior).
