@@ -8,7 +8,7 @@ I am a Software Engineer based in the UK with over 4 years of professional exper
 - 👷‍♀️ Currently a Software Engineer at [Torusmara](https://www.torusmara.com/)
 - 😊 Enthusiastic about contributig to open source projects.
 - 💼 Job interests:  Frontend Engineer, Fullstack Engineer (mid-level/senior).
-- 📫 You can [view my portflio](https://badmus-damola-taiwo.netlify.app/) and contact me by emailing khadijahbadmus024@gmail.com.
+- 📫 You can [view my portflio](https://damola-badmus-taiwo.vercel.app/) and contact me by emailing khadijahbadmus024@gmail.com.
 
 
   **![](https://komarev.com/ghpvc/?username=deejarh&style=plastic)**
