@@ -8,7 +8,7 @@ I’m a UK-based Software Engineer with 5+ years of experience building complex,
 - 👷‍♀️ Software Engineer at [JustEatTakeaway](https://www.justeattakeaway.com/home/)
 - 👩‍💻 Lead at [Women Coding Community](https://www.womencodingcommunity.com/)
 - 🌱 Open-source contributor.
-- 💼 Job interests:  Frontend Engineer, Fullstack Engineer (senior).
+- 💼 Job interests:  Frontend Engineer, Fullstack Engineer.
 - 📫 You can [view my portflio](https://damola-badmus-taiwo.vercel.app/) and contact me by emailing khadijahbadmus024@gmail.com.
 
 
