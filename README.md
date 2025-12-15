@@ -1,12 +1,13 @@
 ### Nice to meet you! 👋
 
-I am a Software Engineer based in the UK with over 5 years of professional experience in building complex web applications. I specialize in JavaScript, TypeScript, Vue.js, Nodejs, React, RESTful APIs, GraphQL, PostgreSQL, MongoDb, Firebase, HTML and CSS.
+I’m a UK-based Software Engineer with 5+ years of experience building complex, high-impact web applications. I focus on delivering fast, accessible, and intuitive user experiences across modern frontend and fullstack systems.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 👷‍♀️ Currently a Software Engineer at [JustEatTakeaway](https://www.justeattakeaway.com/home/)
-- 😊 Enthusiastic about contributing to open source projects.
+- 👷‍♀️ Software Engineer at [JustEatTakeaway](https://www.justeattakeaway.com/home/)
+- 👩‍💻 Lead at [Women Coding Community](https://www.womencodingcommunity.com/)
+- 🌱 Open-source contributor.
 - 💼 Job interests:  Frontend Engineer, Fullstack Engineer (senior).
 - 📫 You can [view my portflio](https://damola-badmus-taiwo.vercel.app/) and contact me by emailing khadijahbadmus024@gmail.com.
 
